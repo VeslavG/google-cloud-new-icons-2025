@@ -24,10 +24,10 @@ While Google provides the raw SVG files, importing them directly results in mass
 ## 🛠️ How it was built
 
 The raw icons from Google come in a complex nested folder structure with redundant naming. 
-I used a Python script (included in this repo as `fix_icons.py`) to:
+I created a Python script to:
 1.  Flatten the directory structure.
 2.  Clean up the filenames (removing `_512`, `_color`, and category duplication).
-3.  Inject `width="48px"` and `height="48px"` attributes directly into the XML of every SVG.
+3.  Inject `width="64px"` and `height="64px"` attributes directly into the XML of every SVG.
 
 ## ⚖️ License & Attribution
 
