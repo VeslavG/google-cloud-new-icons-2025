@@ -15,11 +15,11 @@ While Google provides the raw SVG files, importing them directly results in mass
 
 ## 📦 How to Use
 
-1.  Download the `GCP_Icons_2025.xml` file from this repository. *(Note: You need to save your library from Draw.io as an XML file first to upload it here, or just upload the folder of SVGs)*.
+1.  Download the `*.xml` file from this repository. *(Note: You need to save your library from Draw.io as an XML file first to upload it here, or just upload the folder of SVGs)*.
 2.  Open [Draw.io](https://app.diagrams.net/).
 3.  Go to **File** -> **Open Library...**
 4.  Select the downloaded file.
-5.  Enjoy your new panel of icons!
+5.  Enjoy your new panel of fresh and shiny Google Cloud icons!
 
 ## 🛠️ How it was built
 
